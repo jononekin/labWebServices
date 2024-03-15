@@ -17,6 +17,7 @@ public class ConcreteFlightContainer {
 	public Flight getFlight(){
 		return flight; }
 	public String toString(){
-		return concreteFlight+"/"+flight; }
+		return concreteFlight+"/"+flight; 
+	}
 }
 

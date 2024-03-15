@@ -24,7 +24,7 @@ public class Flight implements Serializable{
 		this.arrivingCity = arrivingCity;
 		concreteFlights = new ArrayList<ConcreteFlight>();
 	}
-	
+
 	public Flight() {
 		super();
 	}
